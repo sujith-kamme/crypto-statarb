@@ -1,0 +1,31 @@
+{
+  "cluster_0": [
+    "BTCUSDT",
+    "SOLUSDT",
+    "ADAUSDT",
+    "BNBUSDT",
+    "ARBUSDT",
+    "OPUSDT"
+  ],
+  "cluster_1": [
+    "AVAXUSDT",
+    "LINKUSDT",
+    "LDOUSDT",
+    "DOGEUSDT",
+    "SHIBUSDT",
+    "PEPEUSDT"
+  ],
+  "cluster_2": [
+    "DOTUSDT",
+    "ATOMUSDT",
+    "NEARUSDT",
+    "AAVEUSDT",
+    "FILUSDT",
+    "LTCUSDT"
+  ],
+  "cluster_3": [
+    "ETHUSDT",
+    "UNIUSDT",
+    "FETUSDT"
+  ]
+}
