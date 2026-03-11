@@ -1,0 +1,25 @@
+{
+  "cluster_0": [
+    "SOLUSDT",
+    "LINKUSDT",
+    "ATOMUSDT",
+    "DOTUSDT",
+    "FILUSDT"
+  ],
+  "cluster_1": [
+    "BTCUSDT",
+    "ETHUSDT",
+    "BNBUSDT",
+    "FTMUSDT"
+  ],
+  "cluster_2": [
+    "AVAXUSDT",
+    "UNIUSDT",
+    "MATICUSDT"
+  ],
+  "cluster_3": [
+    "NEARUSDT",
+    "ADAUSDT",
+    "AAVEUSDT"
+  ]
+}
